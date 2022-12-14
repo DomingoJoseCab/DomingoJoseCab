@@ -6,52 +6,112 @@
 
 
 <div id="badges" align="center">
-    <a
-            href="https://www.linkedin.com/in/domingo-jos%C3%A9-caballero-navarro-56a29a24b/"
+    <a href="https://www.linkedin.com/in/domingo-jos%C3%A9-caballero-navarro-56a29a24b/"
             target="_blank"
             class="linkedin"
-            ><i class="bx bxl-linkedin"></i
-          ></a>
-    <a href="https://www.youtube.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
-            alt="Youtube Badge" />
-    </a>
-    <a href="https://twitter.com/CarlosYouDevs" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
-            alt="Twitter Badge" />
-    </a>
+            ><img
+                  src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"
+                  alt="linkedin"
+                  height="50"
+                  width="auto"
+                /></a>
+   <a href="https://github.com/DomingoJoseCab"
+            target="_blank"
+            class="github"
+            ><img
+                  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"
+                  alt="github"
+                  height="50"
+                  width="auto"
+                /></a>
 </div>
 
 ---
 
 ### 👨‍💻 About Me :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
+- 📝 I regularly upload new projects on [my personal portfolio](https://domingojosecab.github.io/index.html)
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 💬 Ask me about **Machine Learning and Deep Learning**
 
-- 📫 How to reach me **carlos.develops@gmail.com**
+- 📫 How to reach me **domingojcn@gmail.com**
 
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
+- 🌱 I’m currently learning **Data Mining**
 
-- 🌐 Website [youdevs.com](youdevs.com)
+- 🌐 Website [domingojosecab.github.io](https://domingojosecab.github.io/index.html)
 
-
+&nbsp;&nbsp;
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
+    <h3>🔨 Languages:</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img
+                  src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"
+                  alt="Python"
+                  height="50"
+                  width="150"
+                />
+                <img
+                  src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"
+                  alt="Java"
+                  height="50"
+                  width="120"
+                />
+                <img
+                  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"
+                  alt="HTML"
+                />
+                <img
+                  src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"
+                  alt="CSS"
+                  height="60"
+                  width="90"
+                />
+      </div>
+    &nbsp;&nbsp;
+    <h3>📚 Libraries:</h3>
+    <div>
+        <img
+                  src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"
+                  alt="Tensorflow"
+                />
+                <img
+                  src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+                  alt="upload.wikimedia.org"
+                  width="90"
+                  height="70"
+                />
+                <img
+                  src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"
+                  alt="vectorlogo.zone"
+                />
+                <img
+                  src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"
+                  alt="vectorlogo.zone"
+                />
+                <img
+                  src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg"
+                  alt="vectorlogo.zone"
+                />
+                <img
+                  src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"
+                  alt="vectorlogo.zone"
+                />
+      </div>
+    &nbsp;&nbsp;
+    <h3>🧰 Tools:</h3>
+    <div>
+        <img
+                  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"
+                  alt="vectorlogo.zone"
+                />
+                <img
+                  src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"
+                  alt="vectorlogo.zone"
+                />
+                <img
+                  src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"
+                  alt="vectorlogo.zone"
+                />
       </div>
 </div>
 
@@ -59,8 +119,8 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DomingoJoseCab&theme=tokyonight&hide_border=true&border_radius=5.5)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DomingoJoseCab&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DomingoJoseCab&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
