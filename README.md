@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Domingo José Caballero Navarro</h1>
-    <h3 align="center">Passionate about everything related to Data Science. Currently, I am developing personal projects to develop all my knowledge, in these projects I carry out the entire Data Mining process from an exhaustive data analysis to a detailed preprocessing using pipelines and subsequent validation. Constantly updating my knowledge about innovations in the industry. Looking for an internship where I can develop my professional career.</h3>
+    <h3 align="center">Passionate about everything related to Data Science. Currently, I am developing personal projects to develop all my knowledge, in these projects I carry out the entire Data Mining process from an exhaustive data analysis to a detailed preprocessing using pipelines and subsequent validation. Constantly updating my knowledge about innovations in the industry. Looking for an internship or junior position where I can develop my professional career.</h3>
 </div>
 
 
