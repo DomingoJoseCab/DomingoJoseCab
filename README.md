@@ -75,6 +75,10 @@
                   alt="Tensorflow"
                 />
                 <img
+                  src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"
+                  alt="Tensorflow"
+                />
+                <img
                   src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
                   alt="upload.wikimedia.org"
                   width="90"
